@@ -1,0 +1,76 @@
+<resources>
+    <string name="app_name">Inventory App</string>
+
+    <string name="empty_view_text">Get started by adding a product</string>
+
+    <string name="button_add_product">add</string>
+
+    <string name="action_delete_all">delete all</string>
+
+    <string name="action_save_product">save</string>
+
+    <string name="action_delete_product">delete</string>
+
+    <string name="hint_product_name">Name</string>
+
+    <string name="hint_product_quantity">Quantity</string>
+
+    <string name="hint_quantity_by">Quantity by</string>
+
+    <string name="text_price">Price</string>
+
+    <string name="hint_price">Price</string>
+
+    <string name="hint_sold">Sold Quantity</string>
+
+    <string name="price_unit">$</string>
+
+    <string name="sale_button">sale</string>
+
+    <string name="order_button">order</string>
+
+    <string name="editor_activity_title_add_new_product">Add a product</string>
+
+    <string name="editor_activity_title_edit_exist_product">Edit a product</string>
+
+    <string name="order_more">order more</string>
+
+    <string name="order_quantity_available">quantity available</string>
+
+    <string name="order_product_price">price $</string>
+
+    <string name="order_product_sold_quantity"> sold quantity = </string>
+
+    <!-- Dialog message when user is leaving editor but hasn't saved changes [CHAR LIMIT=NONE] -->
+    <string name="unsaved_changes_dialog_msg">Discard your changes and quit editing?</string>
+
+    <!-- Dialog button text for the option to discard a user's changes [CHAR LIMIT=20] -->
+    <string name="discard">Discard</string>
+
+    <!-- Dialog button text for the option to keep editing the current pet [CHAR LIMIT=20] -->
+    <string name="keep_editing">Keep Editing</string>
+
+    <string name="editor_insert_product_failed">insert product failed</string>
+
+    <string name="editor_insert_product_successful">insert product successful</string>
+
+    <string name="editor_update_product_failed">update product failed</string>
+
+    <string name="editor_update_product_successful">update product successful</string>
+
+    <string name="editor_delete_product_failed">delete product failed</string>
+
+    <string name="editor_delete_product_successful">delete product successful</string>
+
+    <string name="delete_dialog_msg">Delete this product?</string>
+
+    <string name="delete_all_dialog_msg">Delete all products?</string>
+
+    <string name="delete">Delete</string>
+
+    <string name="cancel">Cancel</string>
+
+    <string name="unknown_price">unknown price</string>
+
+    <string name="track_button">sale</string>
+</resources>
